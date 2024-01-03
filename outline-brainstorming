@@ -1,21 +1,5 @@
 
 hydroponic
-pros:
-cleaner
-more control over nutrients
-many variables so = fun engineering challenge
-shorter grow times
-less prone to disease or pests
-
-cons:
-can be more expensive depending on how we do it
-hydroponics are not considered organic
-many many variables to control IE temp, nutrients, acidity.. possibly more
-
-
-
-
-
 Technique: Deep water culture
 
 
@@ -27,5 +11,8 @@ the water needs to be nutrient rich
 needs ph, temp, and nutrient density to be maintained and consistent
 
 
-
+SUMMARY:
+We do not need to worry about the temp since its Arizona. We just need sensors for the pH and nutrient density or EC (electrical conductivity).
+We also need a air pump and a small motor to run that. Another harder to get item will be the air stone? We could try other things, but I have 
+heard that its a good choice.
 
